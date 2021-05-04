@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\bin\Debug\netcoreapp3.1\Multiple of 3.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\bin\Debug\netcoreapp3.1\Multiple of 3.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\bin\Debug\netcoreapp3.1\Multiple of 3.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\bin\Debug\netcoreapp3.1\Multiple of 3.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\bin\Debug\netcoreapp3.1\Multiple of 3.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\bin\Debug\netcoreapp3.1\Multiple of 3.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\obj\Debug\netcoreapp3.1\Multiple of 3.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\obj\Debug\netcoreapp3.1\Multiple of 3.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\obj\Debug\netcoreapp3.1\Multiple of 3.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\obj\Debug\netcoreapp3.1\Multiple of 3.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\obj\Debug\netcoreapp3.1\Multiple of 3.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\obj\Debug\netcoreapp3.1\Multiple of 3.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Multiple-of-3\Multiple of 3\Multiple of 3\obj\Debug\netcoreapp3.1\Multiple of 3.genruntimeconfig.cache
